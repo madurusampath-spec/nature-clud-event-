@@ -1,0 +1,6 @@
+{
+  "name": "Nature Club – E-Certificate Portal",
+  "description": "Aurora Higher Education and Research Academy, Bhongir Campus - Two-Phase E-Certificate Generation Portal for ECO GAMES – PLAY FOR THE PLANET",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
